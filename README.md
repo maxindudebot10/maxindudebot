@@ -5,7 +5,7 @@
 
 <div align="center">
 
-## [![catbots](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+catbots+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
+## [![maxindudebot](https://readme-typing-svg.herokuapp.com?font=Road+Rage&color=FFA500&lines=Welcome+to+maxindudebot+WA+Bot+repo;Created+by+basil+Ser;This+is+the+Best++Bgm+bot;With+more+features)](https://bit.ly/2VM4lxF)
 
  </a>
 </p>
@@ -14,11 +14,11 @@
 <a href="#"><img title="BASILSER" src="https://img.shields.io/badge/BASILSER-red?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/itsmebasil0"><img title="Author" src="https://img.shields.io/badge/Author-itsmebasil0-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/maxindudebot10"><img title="Author" src="https://img.shields.io/badge/Author-maxindudebot10-/pikachu?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to make it public
+Project created by <a href="https://github.com/maxindudebot10">maxindudebot10</a> to make it public
     <br>
        | © |
         Reserved |
@@ -39,9 +39,9 @@ Project created by <a href="https://github.com/itsmebasil0">itsmebasil0</a> to m
 
 <p align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itsmebasil0&show_icons=true&theme=dark&locale=en" alt="itsmebasil0" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxindudebot10&show_icons=true&theme=dark&locale=en" alt="maxindudebot10" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=itsmebasil0&theme=dark" alt="itsmebasil0" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=maxindudebot10&theme=dark" alt="maxindudebot10" /></p>
 </p>
 
 
@@ -59,9 +59,9 @@ Click WA logo to Join Support Group 👇
 
   ### Simple Method
   
-[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmebasil/Catbots)
+[![Run on Repl.it](https://www.linkpicture.com/q/Untitled-3_10.jpg)](https://replit.com/@itsmebasil/maxindudebot)
 
-[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/itsmebasil0/catbots.git)
+[![Deploy](https://www.linkpicture.com/q/heroku.jpg)](https://heroku.com/deploy?template=https://github.com/maxindudebot10/maxindudebot.git)
      </div>
 <br>
 <br >
@@ -81,8 +81,8 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/maxindudebot10/maxindudebot
+$ cd maxindudebot
 $ chmod +x *
 $ npm install @adiwajshing/baileys
 $ npm install chalk
@@ -91,8 +91,8 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Itsmebasil0/catbots
-$ cd catbots
+$ git clone https://github.com/maxindudebot10/maxindudebot
+$ cd maxindudebot
 $ chmod +x *
 $ npm i
 $ node qr.js
@@ -112,9 +112,9 @@ By establishing the Pikachu, you are deemed to have accepted these responsibilit
 ## Developers
   <div align="center">
     
-  [![itsmebasil0](https://github.com/itsmebasil0.png?size=100)](https://github.com/itsmebasil0) | 
+  [![maxindudebot10](https://github.com/maxindudebot10.png?size=100)](https://github.com/maxindudebot10) | 
 ----|
-[BASILSER](https://github.com/itsmebasil0)
+[BASILSER](https://github.com/maxindudebot10)
 Base, Bug Fixes, Modules | Modifiying as public | Bug Fixes, Modules | Bug fixes, ideas
   </div>
 
